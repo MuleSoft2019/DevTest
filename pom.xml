@@ -29,8 +29,8 @@
 					<runtimeFabricDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4</muleVersion>
-						<username>sameergaikwad</username>
-						<password>Password@123</password>
+						<username>ravindrasinghcapita</username>
+						<password>Capita@2011</password>
 						<applicationName>Customer-registration</applicationName>
 						<environment>QA</environment>
 						<provider>MuleSoft</provider>
